@@ -32,7 +32,7 @@
 		$arr['StatusID'] // (0=Failed , 1=Complete)
 		$arr['MemberID'] // MemberID
 		$arr['Error' // Error Message
-	*/
+	**/
 	
 	mysql_close($objConnect);
 	
